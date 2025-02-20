@@ -129,6 +129,13 @@ The first truly sound money
 
 </v-clicks>
 
+<!--
+- How many Millionaires are there?
+- What happens if there is one server with all your data in it and it goes down?
+- calculator analogy and on changing 1+1 = 2.
+-
+-->
+
 ---
 
 # How Bitcoin Fixes This
